@@ -1,0 +1,4 @@
+= Quarkus Dev Services, jOOQ, Flyway, and Testcontainers: A Full Example
+
+This project is the example source code for a https://jasondl.ee/posts/2022/quarkus-dev-services-jooq-flyway-testcontainers-full-example.html[blog post]
+of the same name. For details, please read the https://jasondl.ee/posts/2022/quarkus-dev-services-jooq-flyway-testcontainers-full-example.html[post].
